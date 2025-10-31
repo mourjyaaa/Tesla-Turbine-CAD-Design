@@ -2,6 +2,7 @@
 
 The Tesla Turbine model is developed using Solidworks, an advanced CAD software, showcasing the design, assembly, and key component details. This project aims to explore the potential of bladeless turbines as alternatives to traditional turbine designs such as Francis, Pelton, and Kaplan.
 
+
 Features:
 
 1.Detailed 3D CAD models of the turbine components
@@ -12,9 +13,11 @@ Features:
 
 4.Exported files compatible with various simulation and manufacturing software
 
+
 Technologies Used:
 
 1.CAD Software: SolidWorks
+
 
 How to Use:
 
@@ -25,6 +28,7 @@ How to Use:
 3.Modify parameters in parametric models for customized designs
 
 4.Utilize exported files for simulation, visualization, or prototyping
+
 
 About the Creator
 
