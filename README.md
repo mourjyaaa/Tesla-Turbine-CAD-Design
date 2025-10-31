@@ -32,4 +32,4 @@ How to Use:
 
 About the Creator
 
-This project was designed and developed by an engineering student with a focus on fluid mechanics and innovative turbine design. The project exemplifies skills in CAD modeling, mechanical design, and engineering analysis.
+This project was designed and developed by Mourjya Mohin Gogoi, an engineering student with a focus on fluid mechanics and innovative turbine design. The project exemplifies skills in CAD modeling, mechanical design, and engineering analysis.
